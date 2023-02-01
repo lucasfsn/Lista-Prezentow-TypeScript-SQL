@@ -9,7 +9,7 @@
     "build": "tsc"
   },
   "keywords": [],
-  "author": "",
+  "author": "lucasfsn",
   "license": "ISC",
   "dependencies": {
     "@types/cors": "^2.8.13",
