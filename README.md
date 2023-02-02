@@ -1,3 +1,3 @@
 # Lista Prezentow (TypeScript+SQL)
 
-![preview](./public/images/preview.jpg)
+![preview](./public/assets/images/preview.jpg)
